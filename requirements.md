@@ -20,4 +20,5 @@
 
 - `composer install`
 - `cp .env.example .env`
+- `sudo chmod -R 775 storage boostrap/cache`
 - `php artisan key:generate` 
